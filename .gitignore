@@ -1,0 +1,8 @@
+build/
+*.pyc
+*.DS_Store
+sdkconfig.old
+sdkconfig.defaults
+.vscode/
+.idea/
+__pycache__/
