@@ -3,6 +3,12 @@
 Sistema modular de automatización para acuarios marinos y de arrecife, basado en ESP32-S3 y comunicación USB CDC con un controlador central (Raspberry Pi).  
 Este proyecto sigue una arquitectura robusta, escalable y local-first, con paneles dedicados (AC, DC, IO) seleccionables por menuconfig.
 
+# Aqua Controller USB
+
+## Documentación Principal
+
+- [Documento Maestro de Diseño (PDF)](docs/AquaControl%20USB%204,7.pdf)
+
 ### Estructura del proyecto
 
 - **main/**: Entrada principal y ciclo de aplicación.

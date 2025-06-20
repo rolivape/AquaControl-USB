@@ -1,1 +1,0 @@
-// Archivo stub para implementación futura.

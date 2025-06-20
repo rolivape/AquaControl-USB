@@ -1,2 +1,0 @@
-idf_component_register(SRCS "panel_ac.c" "panel_dc.c" "panel_io.c"
-                      INCLUDE_DIRS ".")
